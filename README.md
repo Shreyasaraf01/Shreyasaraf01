@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shreya Saraf, a passionate Full Stack Python Developer and Open Source Contributor (GSSoC’24) with a strong foundation in Python, C++, and Django. I enjoy building real-world projects that combine AI/ML, data visualization, and web development to solve meaningful problems.
+I'm Shreya Saraf, a passionate Full Stack Python Developer with a strong foundation in Python, C++, and Django. I enjoy building real-world projects that combine AI/ML, data visualization, and web development to solve meaningful problems.
 
 🔍 I'm currently exploring
 
