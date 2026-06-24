@@ -1,15 +1,50 @@
-# 💫 About Me:
-I'm Shreya Saraf, a passionate Full Stack Python Developer with a strong foundation in Python, C++, and Django. I enjoy building real-world projects that combine AI/ML, data visualization, and web development to solve meaningful problems.
+# Hi there, I'm Shreya Saraf 👋
 
-🔍 I'm currently exploring
+💻 Full Stack Python Developer | AI Enthusiast | Open Source Contributor
 
-💡 AI/ML with Scikit-learn & Pandas
+I'm a final-year B.Tech Computer Science student (IoT with Cybersecurity including Blockchain Technology) passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
 
-🔐 Cybersecurity fundamentals
+🏆 **Highlights**
+- 🥈 Smart India Hackathon 2025 Grand Finale – 1st Runner-Up
+- 🏅 Best Girls Team – HACKSRIT 2025
+- 🎓 Branch Topper
+- ☁️ Google Cloud Arcade Recognition
 
-⛓️ Blockchain technology
+### 🚀 Currently Working On
+- AI-powered Full Stack Applications
+- FastAPI & Django REST APIs
+- Machine Learning Projects
+- Backend System Design
 
-💻 Scalable web apps with Django & Tailwind CSS
+### 🛠 Tech Stack
+
+**Languages**<br>
+Python • C++ • JavaScript
+
+**Backend**<br>
+Django • FastAPI • REST APIs
+
+**Frontend**<br>
+React • HTML • CSS
+
+**AI/ML**<br>
+Scikit-learn • Pandas • NumPy • Reinforcement Learning
+
+**Databases & Tools**<br>
+MySQL • Git • GitHub • Postman • Streamlit • Render
+
+### 🌱 Currently Learning
+
+- System Design
+- Advanced Backend Development
+- AI & LLM Applications
+- Cloud Deployment
+
+### 🤝 Open to
+
+Software Development • Backend Development • Full Stack Development • AI Engineering • Open Source Collaboration
+
+> *"Building technology that creates real-world impact."*
 
 
 ## 🌐 Socials:
