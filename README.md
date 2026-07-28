@@ -2,7 +2,7 @@
 
 💻 Full Stack Python Developer | AI Enthusiast | Open Source Contributor
 
-I'm a final-year B.Tech Computer Science student (IoT with Cybersecurity including Blockchain Technology) passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
+I'm a B.Tech Computer Science (IoT with Cybersecurity including Blockchain Technology) graduate. Building scalable web applications and AI-powered solutions that solve real-world problems.
 
 🏆 **Highlights**
 - 🥈 Smart India Hackathon 2025 Grand Finale – 1st Runner-Up
